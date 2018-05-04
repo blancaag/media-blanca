@@ -1,0 +1,11 @@
+*.pth
+*.pt
+*.pth.tar
+checkpoints
+output
+__pycache__
+results
+training
+training/
+*.ipynb_checkpoints
+*.DS_Store

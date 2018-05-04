@@ -1,0 +1,12 @@
+include mtcnn/dependencies/ONet/ONet-16.data-00000-of-00001
+include mtcnn/dependencies/ONet/ONet-16.index
+include mtcnn/dependencies/ONet/ONet-16.meta
+include mtcnn/dependencies/ONet/checkpoint
+include mtcnn/dependencies/PNet/PNet-18.data-00000-of-00001
+include mtcnn/dependencies/PNet/PNet-18.index
+include mtcnn/dependencies/PNet/PNet-18.meta
+include mtcnn/dependencies/PNet/checkpoint
+include mtcnn/dependencies/RNet/RNet-14.data-00000-of-00001
+include mtcnn/dependencies/RNet/RNet-14.index
+include mtcnn/dependencies/RNet/RNet-14.meta
+include mtcnn/dependencies/RNet/checkpoint

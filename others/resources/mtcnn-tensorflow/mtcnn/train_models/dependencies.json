@@ -1,0 +1,17 @@
+{
+    "dependencies": [
+		{
+		  "name": "classifier.pkl", 
+		  "version": "2018-01-31-09-32-27", 
+		  "location": "headpose/binary/classifier.pkl", 
+		  "s3path": "headpose/headpose/classifier.pkl"
+		},
+		{
+		  "name": "scaler.pkl", 
+		  "version": "2018-01-31-09-33-35", 
+		  "location": "headpose/binary/scaler.pkl", 
+		  "s3path": "headpose/headpose/scaler.pkl"
+		}
+    ],
+    "repository": "s3://onfido-research-binaries"
+}
